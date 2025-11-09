@@ -1,1 +1,7 @@
-import cbr-hex
+import os
+import hex
+hex loging()
+
+
+#কিরে মাগীর ছোল ফাইল চুরি করা বাদ দে
+#গুয়া মারা দিয়া মুড়ি মুটকি খা বাউনচোত
